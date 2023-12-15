@@ -10,7 +10,7 @@ public class TestController {
 	@GetMapping("/message")
 	public String getTestMsg() {
 		System.out.println("------------");
-		return "Hello!!!!";
+		return "Hello!!!!....";
 	}
 
 }
