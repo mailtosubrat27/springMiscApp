@@ -1,8 +1,8 @@
-# springMiscApp
-# 1- H2 DB connection
-# 2- Load balancing
-# 3- Feign Client
-# 4- OAuth2
+## springMiscApp
+## 1- H2 DB connection
+## 2- Load balancing
+## 3- Feign Client
+## 4- OAuth2
   Dependency- Cloud Security and Cloud Oauth2
   
   
@@ -14,3 +14,6 @@
 	<groupId>org.springframework.cloud</groupId>
 	<artifactId>spring-cloud-starter-security</artifactId>
 </dependency>
+
+## Multiple response from service(Json and XML)
+
