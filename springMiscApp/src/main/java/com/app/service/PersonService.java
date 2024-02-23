@@ -23,4 +23,8 @@ public class PersonService {
 		
 		return (List<Person>) repository.findAll();
 	}
+
+	public Person findPersonById(Integer id) {
+		return repository.findPersonById(id);
+	}
 }
